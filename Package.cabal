@@ -2,19 +2,19 @@ Name:               Haskell-Package
 Version:            0.0.1
 License:            BSD3
 License-File:       LICENSE
-Author:             Tony Morris <ʇǝu˙sıɹɹoɯʇ@ןןǝʞsɐɥ>
-Maintainer:         Tony Morris
-Copyright:          Tony Morris
+Author:             Stefan Saasen
+Maintainer:         Stefan Saasen
+Copyright:          Stefan Saasen
 Synopsis:           A skeleton for creating haskell packages
 Category:           Development
 Description:        A skeleton for creating haskell packages
-Homepage:           https://github.com/tonymorris/haskell-package
+Homepage:           https://github.com/juretta/haskell-package
 Cabal-Version:      >= 1.6
 Build-Type:         Simple
 
 Source-Repository   head
   Type:             git
-  Location:         git@github.com:tonymorris/haskell-package.git
+  Location:         git@github.com:juretta/haskell-package.git
 
 Flag                small_base
   Description:      Choose the new, split-up base package.
